@@ -1,0 +1,6 @@
+tensorboard
+tensorflow
+tensorflow-datasets
+tensorflow-estimator
+tensorflow-hub
+tensorflow-metadata
