@@ -1,6 +1,6 @@
-tensorboard
-tensorflow
-tensorflow-datasets
-tensorflow-estimator
-tensorflow-hub
-tensorflow-metadata
+tensorboard==2.1.0
+tensorflow==2.1.0
+tensorflow-datasets==2.1.0
+tensorflow-estimator==2.1.0
+tensorflow-hub==0.7.0
+tensorflow-metadata==0.21.1
